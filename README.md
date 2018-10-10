@@ -1,6 +1,6 @@
 # Eagle
 
-All my personal Eagle designs  - Any use of this repo without Antoine Bonnet express consent is prohibited !
+All my personal Eagle designs  - Any use of this repo without **Antoine Bonnet** express consent is prohibited !
 
 Repository Contents
 -------------------
